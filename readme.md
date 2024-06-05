@@ -1,7 +1,3 @@
-# Bookshop Getting Started Sample
-
-This stand-alone sample introduces the essential tasks in the development of CAP-based services as also covered in the [Getting Started guide in capire](https://cap.cloud.sap/docs/get-started/in-a-nutshell).
-
 ## Hypothetical Use Cases
 
 1. Build a service that allows to browse _Books_ and _Authors_.
